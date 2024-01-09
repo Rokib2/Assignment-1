@@ -1,0 +1,149 @@
+/* Banner and main part is here */
+.Banner-resize {
+    background: url('resources/Banner\ Image.png'), linear-gradient(180deg, #fdfcff 0%, rgb(248, 248, 248) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 130px 0px;
+    text-align: center;
+    border-radius: 16px;
+
+}
+
+.New-year {
+    color: red;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.Happy {
+    color: red;
+    font-size: medium;
+    font-style: normal;
+    font-size: 52px;
+    line-height: 50px;
+    font-weight: 700;
+}
+
+.discount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.Categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.new-year-image {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    align-items: center;
+}
+
+/* .big-image {
+    background-image: url('../Assignment-1/resources/Vectorrr.png');
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    padding: 130px 0px;
+    text-align: center;
+} */
+
+/* .text {
+    color: #000000;
+    width: 642px;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+} */
+
+/* .big-pic{
+    padding: 120px 140px;
+} */
+
+.vector {
+    background: url('/resources/Vectorrr.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+.midnight {
+    width: 642px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    /* line-height: 90px; */
+    /* letter-spacing: 7px; */
+    padding-left: 500px;
+    margin-top: 100px;
+
+}
+
+.midnight-p {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-left: 500px;
+    margin-top: 50px;
+}
+
+.midnight-b {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 500px;
+    margin-top: 100px;
+
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    margin-bottom: 10px;
+}
+
+
