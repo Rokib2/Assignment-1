@@ -93,7 +93,7 @@
 } */
 
 .vector {
-    background: url('/resources/Vectorrr.png');
+    background: url('../resources/Vectorrr.png');
     background-position: center;
     background-repeat: no-repeat;
     text-align: left;
