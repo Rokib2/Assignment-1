@@ -146,4 +146,31 @@
     margin-bottom: 10px;
 }
 
+.background {
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 100px;
+    padding: 50px;
+    width: 1320px;
+    height: 200px;
+    flex-shrink: 0;
+    margin-left: 230px;
+    border-radius: 20px;
 
+}
+
+.button {
+    border-radius: 5px;
+    background: #f70202;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    margin-bottom: 10px;
+}
+
+.middle{
+    text-align: left;
+    padding-left: 250px;
+}
