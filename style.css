@@ -92,8 +92,8 @@
     padding: 120px 140px;
 } */
 
-.vector {
-    background: url('../resources/Vectorrr.png');
+.vector{
+    background-image: url('/resources/Vectorrr.png');
     background-position: center;
     background-repeat: no-repeat;
     text-align: left;
